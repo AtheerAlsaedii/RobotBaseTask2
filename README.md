@@ -19,4 +19,4 @@ Repository’s files :
  4. Style.css ‘The interface style code’ .
  5. MovesConnect.php ‘connection code’ .
  6. moves.sql ‘database’ .
- 7. FetcingRecord.php 'Fetch last record'
+ 7. FetcingRecord.php 'Fetch last record' .
