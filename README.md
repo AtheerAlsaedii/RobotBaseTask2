@@ -16,7 +16,7 @@ Repository’s files :
  1. RobotBase.html ‘The interface code for RobotBase’ .
  2. RobotArm.html ‘The interface code for RobotArm’ .
  3. Projectinterface ‘The interface code for Selection page’ .
- 4. Style.css ‘The interface style code’ .
+ 4. Style.css ‘The style code’ .
  5. MovesConnect.php ‘connection code’ .
  6. moves.sql ‘database’ .
  7. FetcingRecord.php 'Fetch last record' .
