@@ -14,7 +14,7 @@ SubTask of RobotBase:
 Repository’s files :
 
  1. RobotBase.html ‘The interface code for RobotBase’ .
- 2. ProjectRobotArm.html ‘The interface code for RobotArm’ .
+ 2. RobotArm.html ‘The interface code for RobotArm’ .
  3. Projectinterface ‘The interface code for Selection page’ .
  4. Style.css ‘The interface style code’ .
  5. MovesConnect.php ‘connection code’ .
